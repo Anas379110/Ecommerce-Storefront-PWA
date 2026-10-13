@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — واجهة متجر إلكتروني مع ميزات PWA
+# 🛠️ Tech Stack — E-Commerce Storefront with PWA Features
 
 - Next.js
 - TypeScript

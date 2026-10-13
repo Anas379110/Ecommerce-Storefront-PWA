@@ -1,21 +1,20 @@
-# واجهة متجر إلكتروني مع ميزات PWA
-**E-Commerce Storefront with PWA Features** · التصنيف: واجهة أمامية (Frontend)
+# E-Commerce Storefront UI with PWA Features
+**E-Commerce Storefront with PWA Features** · Classification: Frontend (Frontend)
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specs and technologies) — source code is not included.
 
-## نبذة عن المشروع
-واجهة Next.js ISR بأداء TTFB أقل من ثانية و Core Web Vitals خضراء.
+## Project Overview
+Next.js ISR storefront with TTFB under one second and green Core Web Vitals.
 
-## أبرز النقاط
-- PWA: وضع بدون إنترنت، إشعارات، A2HS
-- Stripe Checkout + التمرير اللانهائي + الفلترة
-- LCP 1.8s, CLS 0.05, FID 45ms موثقة
+## Highlights
+- PWA: offline mode, notifications, A2HS
+- Stripe Checkout + infinite scroll + filtering
+- LCP 1.8s, CLS 0.05, FID 45ms documented
 
-## الدور
-مطوّر Frontend: بناء الواجهات وإدارة الحالة والتكامل مع الـ APIs وتحسين الأداء وتجربة المستخدم.
+## Role
+Frontend Developer: building UIs, state management, API integration, performance and UX optimization.
 
-## التقنيات المستخدمة
+## Technologies used
 Next.js, TypeScript, Redux Toolkit, Tailwind CSS, TanStack Query, Stripe, Vercel
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
